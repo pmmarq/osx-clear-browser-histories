@@ -1,6 +1,6 @@
 #Clear OSX Browser Histories
 
-These shell scripts clear the private data (browsing histories) of Google Chrome, Apple Safari, and Opera Next on OSX. Unlike Firefox, these browsers do not offer the option to automatically clear all private data upon browser exit. 
+These shell scripts clear the private data (browsing histories) of Google Chrome, Apple Safari, Opera Next, and Vivaldi on OSX. Unlike Firefox, these browsers do not offer the option to automatically clear all private data upon browser exit. 
 
 This has been tested with OSX El Capitan, but should work for Yosemite and Mountain Lion.
 
@@ -28,7 +28,7 @@ This has been tested with OSX El Capitan, but should work for Yosemite and Mount
 
 ##USAGE
 
-Ensure whichever browser (chrome/safari/opera) you want to clear the history of isn't currently running, then use the following terminal command:
+Ensure whichever browser (chrome/safari/opera/vivaldi) you want to clear the history of isn't currently running, then use the following terminal command:
 
 ```
 sh clear-chrome-history.sh
